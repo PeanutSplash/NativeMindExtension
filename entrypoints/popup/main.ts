@@ -1,12 +1,4 @@
-import './style.css'
-import '@/utils/rpc'
-
 import { createApp } from 'vue'
+import HelloWorld from '../../components/HelloWorld.vue'
 
-import { createI18nInstance } from '@/utils/i18n'
-
-import App from './App.vue'
-
-const app = createApp(App)
-app.use(await createI18nInstance())
-app.mount('#app')
+createApp(HelloWorld, { msg: 'Hello from the Popup!' }).mount('#app')

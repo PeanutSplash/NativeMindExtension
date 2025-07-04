@@ -1,1 +1,1 @@
-console.log('Content script loaded')
+// content script entrypoint

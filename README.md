@@ -19,6 +19,7 @@ pnpm install
 pnpm dev            # start development
 pnpm build:prod     # build for production
 pnpm test:unit      # run unit tests
+pnpm test:e2e       # run e2e tests
 ```
 
 For more commands see `package.json`.
@@ -33,3 +34,4 @@ For more commands see `package.json`.
 ## Example
 
 A simple popup page using Vue is included under `entrypoints/popup`.
+Unit and e2e tests can be found in the `tests` directory.

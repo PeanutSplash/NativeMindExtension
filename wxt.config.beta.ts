@@ -15,9 +15,6 @@ export default defineConfig(
         name: `__MSG_extName__ ${BETA}`,
         description: `__MSG_extDesc__ ${BETA_DESC}`,
       },
-      autoIcons: {
-        baseIconPath: 'assets/icon.png',
-      },
     },
     config,
   ),

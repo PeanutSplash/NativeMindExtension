@@ -12,12 +12,12 @@
   "description": "Starter template for WXT browser extensions",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NativeMindBrowser/NativeMindExtension"
+    "url": "https://github.com/example/wxt-extension-template"
   },
   "bugs": {
-    "url": "https://github.com/NativeMindBrowser/NativeMindExtension/issues"
+    "url": "https://github.com/example/wxt-extension-template/issues"
   },
-  "homepage": "https://github.com/NativeMindBrowser/NativeMindExtension#readme",
+  "homepage": "https://github.com/example/wxt-extension-template#readme",
   "sideEffects": false,
   "type": "module",
   "scripts": {

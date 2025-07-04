@@ -8,7 +8,6 @@ This template provides a minimal setup for building browser extensions with [WXT
 components/        # Vue components
 composables/       # Reusable composables
 entrypoints/       # Extension entrypoints (background, content script, popup)
-locales/           # i18n files
 public/            # Static assets
 ```
 
